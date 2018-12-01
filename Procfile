@@ -1,1 +1,1 @@
-worker: node.js index.js
+worker: phyton index.js
